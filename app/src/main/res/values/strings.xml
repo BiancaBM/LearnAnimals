@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learn Animals</string>
+    <string name="score_label">Score: 0</string>
+    <string name="score_result1">Felicitari!</string>
+    <string name="score_result2">Puncte acumulate -></string>
+    <string name="reload">Joaca din nou</string>
+</resources>
